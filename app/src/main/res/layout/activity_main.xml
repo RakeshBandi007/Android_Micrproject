@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <Button
+        android:id="@+id/a1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="B"
+        android:background="#FFFFFF"
+        android:textColor="#000000"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/c1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/d1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="D"
+        android:background="#FFFFFF"
+        android:textColor="#000000"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/e1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="E"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/f1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="F"
+        android:background="#FFFFFF"
+        android:textColor="#000000"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/g1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="G"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/h1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="H"
+        android:background="#FFFFFF"
+        android:textColor="#000000"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/i1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/j1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="J"
+        android:background="#FFFFFF"
+        android:textColor="#000000"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/k1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="K"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="L"
+        android:background="#FFFFFF"
+        android:textColor="#000000"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/m1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="M"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/n1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="N"
+        android:background="#FFFFFF"
+        android:textColor="#000000"
+        android:layout_marginBottom="8dp" />
+
+</LinearLayout>
